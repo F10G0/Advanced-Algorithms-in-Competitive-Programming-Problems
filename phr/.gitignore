@@ -1,0 +1,4 @@
+phr
+*.exe
+*.o
+tmp.out
