@@ -1,0 +1,4 @@
+xap
+*.exe
+*.o
+tmp.out
