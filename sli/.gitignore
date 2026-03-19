@@ -1,0 +1,4 @@
+sli
+*.exe
+*.o
+tmp.out

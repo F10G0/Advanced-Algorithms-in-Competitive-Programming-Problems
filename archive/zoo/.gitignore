@@ -1,0 +1,4 @@
+zoo
+*.exe
+*.o
+tmp.out

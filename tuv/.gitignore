@@ -1,0 +1,4 @@
+tuv
+*.exe
+*.o
+tmp.out

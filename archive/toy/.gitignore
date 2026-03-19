@@ -1,0 +1,4 @@
+toy
+*.exe
+*.o
+tmp.out
